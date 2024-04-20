@@ -22,5 +22,5 @@
   <p> Some of my personal projects, that may not be as well maintained, are located on other github accounts! </p>
   <br/>
   <p> They have been linked below: </p>
-  <p> <a href="https://githhub.com/porg-mc"> porg-mc </a> (minecraft projects) </p>
+  <p> <a href="https://github.com/porg-mc"> porg-mc </a> (minecraft projects) </p>
 </div>
